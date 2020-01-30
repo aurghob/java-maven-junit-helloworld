@@ -1,4 +1,4 @@
-(https://github.com/aurghob/java-maven-junit-helloworld/workflows/Java%20CI/badge.svg)
+[!(https://github.com/aurghob/java-maven-junit-helloworld/workflows/Java%20CI/badge.svg)]
 
 # A Java/Maven/JUnit HelloWorld example
 

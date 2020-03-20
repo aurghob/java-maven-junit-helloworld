@@ -1,6 +1,6 @@
 [![Unit tests](https://github.com/aurghob/java-maven-junit-helloworld/workflows/Java%20CI/badge.svg)]
 
-# A Java/Maven/JUnit HelloWorld example
+# A Java/Maven/JUnit HelloWorld example 
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
